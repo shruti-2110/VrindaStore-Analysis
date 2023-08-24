@@ -1,5 +1,5 @@
 # VrindaStore-Analysis
-Objective: 
+Objective:                                                                                                                                                            
 We have created an annual sales report for Vrinda Store so that, she can understand their customers and grow more sales in the coming years.   
 
       From this Vrinda Store Analysis we found:                                                                                                                      
