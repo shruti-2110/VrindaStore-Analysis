@@ -1,6 +1,11 @@
 # VrindaStore-Analysis
 Objective:                                                                                                                                                            
-We have created an annual sales report for Vrinda Store so that, she can understand their customers and grow more sales in the coming years.   
+We have created an annual sales report for Vrinda Store so that, she can understand their customers and grow more sales in the coming years. 
+
+Following steps I have applied for the analysis:                                                                                                                      
+Step 1: Data Cleaning                                                                                                                                                 
+Step 2: Data Processing                                                                                                                                               
+Step 3: Data Analysis                                                                                                                                                 
 
       From this Vrinda Store Analysis we found:                                                                                                                      
 -> Women are more likely to buy comapred to men (~65%)                                                                                                             
